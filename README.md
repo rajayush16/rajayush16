@@ -16,6 +16,9 @@
   <a href="https://github.com/rajayush16">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://codeforces.com/profile/ayush.raj12516">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
+  </a>
 </p>
 
 ---
