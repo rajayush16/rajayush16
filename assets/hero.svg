@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="390" viewBox="0 0 1280 390" role="img" aria-labelledby="title desc">
+  <title id="title">Ayush Raj — Backend Engineer and Competitive Programmer</title>
+  <desc id="desc">A custom dark developer terminal banner with emerald and violet accents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080d1c"/>
+      <stop offset="0.55" stop-color="#11152b"/>
+      <stop offset="1" stop-color="#0b1427"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4cecc9"/>
+      <stop offset="0.55" stop-color="#7b83ff"/>
+      <stop offset="1" stop-color="#ae7efb"/>
+    </linearGradient>
+    <radialGradient id="mintGlow">
+      <stop offset="0" stop-color="#2ce7ba" stop-opacity="0.23"/>
+      <stop offset="1" stop-color="#2ce7ba" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="violetGlow">
+      <stop offset="0" stop-color="#9375ff" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#9375ff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#b9c6ff" stroke-width="0.7" stroke-opacity="0.065"/>
+    </pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="22"/></filter>
+    <clipPath id="clip"><rect x="1" y="1" width="1278" height="388" rx="22"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="1278" height="388" rx="22" fill="url(#bg)" stroke="#33415c" stroke-width="1.5"/>
+  <g clip-path="url(#clip)">
+    <rect width="1280" height="390" fill="url(#grid)"/>
+    <ellipse cx="125" cy="-10" rx="380" ry="220" fill="url(#mintGlow)"/>
+    <ellipse cx="1100" cy="355" rx="390" ry="280" fill="url(#violetGlow)"/>
+    <path d="M0 366 L720 366" stroke="url(#stroke)" stroke-width="3" opacity="0.8"/>
+    <circle cx="736" cy="365.5" r="3" fill="#4cecc9"/>
+    <g opacity="0.3" fill="none" stroke="#7893bc">
+      <circle cx="1160" cy="40" r="114"/>
+      <circle cx="1160" cy="40" r="84"/>
+      <circle cx="1160" cy="40" r="54"/>
+    </g>
+  </g>
+  <rect x="55" y="49" width="170" height="29" rx="14.5" fill="#13362f" stroke="#327c6d" stroke-width="1"/>
+  <circle cx="71" cy="63.5" r="4" fill="#56f0c5"/>
+  <text x="84" y="68" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.4" fill="#8ff5d6">HELLO, WORLD</text>
+  <text x="55" y="160" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="800" letter-spacing="-2.3" fill="#f5f8ff">Ayush <tspan fill="#62eccf">Raj</tspan><tspan fill="#a2a7fa">.</tspan></text>
+  <text x="58" y="216" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="600" fill="#ccd8f1">Engineering the backend.</text>
+  <text x="58" y="251" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="600" fill="#ccd8f1">Optimizing the edge cases.</text>
+  <text x="58" y="320" font-family="'Courier New', monospace" font-size="17" letter-spacing="0.5" fill="#8d9db9">BIT MESRA  <tspan fill="#53d5bd">/</tspan>  CSE '26  <tspan fill="#53d5bd">/</tspan>  SOFTWARE ENGINEERING</text>
+  <g>
+    <rect x="775" y="76" width="447" height="250" rx="16" fill="#0c1323" stroke="#495375" stroke-width="1.5"/>
+    <rect x="775" y="76" width="447" height="43" rx="16" fill="#20263a"/>
+    <rect x="775" y="105" width="447" height="14" fill="#20263a"/>
+    <circle cx="800" cy="97" r="5" fill="#ff6c84"/>
+    <circle cx="819" cy="97" r="5" fill="#ffd26b"/>
+    <circle cx="838" cy="97" r="5" fill="#61e5ae"/>
+    <text x="988" y="102" font-family="'Courier New', monospace" font-size="13" fill="#a7b1cc" text-anchor="middle">ayush@dev ~ / terminal</text>
+    <text x="799" y="157" font-family="'Courier New', monospace" font-size="18" fill="#57e7bc">&gt; <tspan fill="#d6dff5">whoami</tspan></text>
+    <text x="824" y="185" font-family="'Courier New', monospace" font-size="16" fill="#aebbd7">software_engineer</text>
+    <text x="799" y="223" font-family="'Courier New', monospace" font-size="18" fill="#57e7bc">&gt; <tspan fill="#d6dff5">cat interests.txt</tspan></text>
+    <text x="824" y="249" font-family="'Courier New', monospace" font-size="15" fill="#aebbd7">distributed systems</text>
+    <text x="824" y="271" font-family="'Courier New', monospace" font-size="15" fill="#aebbd7">backend  ·  algorithms  ·  ML</text>
+    <text x="799" y="302" font-family="'Courier New', monospace" font-size="18" fill="#57e7bc">&gt; <tspan fill="#bf98fa">_</tspan></text>
+  </g>
+</svg>
